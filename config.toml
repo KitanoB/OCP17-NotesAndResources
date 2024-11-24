@@ -1,4 +1,5 @@
 baseURL = "https://kitanob.github.io/OCP17-NotesAndResources/"
+
 theme = "hugo-whisper-theme"
 languageCode = "en-us"
 title = "Hugo Whisper Theme"
@@ -6,6 +7,9 @@ title = "Hugo Whisper Theme"
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
+
+[markup.goldmark.renderer]
+  unsafe = true
 
 [module]
   [module.hugoVersion]
