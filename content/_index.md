@@ -1,9 +1,10 @@
 ---
-title: 'Overview'
-date: 2018-11-28T15:14:39+10:00
+title: 'OCP NOTES'
+date: 2024-11-24T15:14:39+10:00
 weight: 1
 ---
 
 ## OCP NOTES
 
-OCP notes.
+This is a collection of notes for the OCP exam. 
+
