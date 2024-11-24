@@ -1,4 +1,4 @@
-baseURL = "https://kitanob.github.io/OCP17-NotesAndResources/"
+baseURL = "https://kitanob.github.io/OCP17-NotesAndResources/docs/"
 
 theme = "hugo-whisper-theme"
 languageCode = "en-us"
@@ -28,10 +28,10 @@ summaryLength = 30
 
 [params]
   google_analytics_id=""
-  homepage_button_link = '/docs'
+  homepage_button_link = 'https://kitanob.github.io/OCP17-NotesAndResources/docs/'
   homepage_button_text = 'Read The Docs'
   homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
-  homepage_image = '/images/terminal.gif'
+  homepage_image = 'https://kitanob.github.io/OCP17-NotesAndResources/images/terminal.gif'
 
   ## You can enable to add anchor links to header elements
   # enable_anchor_link = true
@@ -48,8 +48,8 @@ summaryLength = 30
     meta_twitter_creator = "@zerostaticio"
 
   [params.logo]
-      mobile = "/images/logo-mobile.svg"
-      standard  = "/images/logo.svg"
+      mobile = "https://kitanob.github.io/OCP17-NotesAndResources/images/logo-mobile.svg"
+      standard  = "https://kitanob.github.io/OCP17-NotesAndResources/images/logo.svg"
 
   [params.footer]
     copyright_text = 'Free Hugo theme by <a class="zerostatic" href="https://www.zerostatic.io">Zerostatic Themes</a>'
