@@ -1,9 +1,5 @@
 ---
-title: 'OCP NOTES'
+title: 'ORACLE CERTIFIED PROFESSIONAL JAVA 17'
 date: 2024-11-24T15:14:39+10:00
 weight: 1
 ---
-
-## OCP NOTES
-
-This is a collection of notes for the OCP exam. 
