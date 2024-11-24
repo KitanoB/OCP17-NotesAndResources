@@ -1,14 +1,13 @@
 ---
-title: 'Overview'
+title: 'OCP In a Nutshell'
 date: 2024-11-24T15:16:39+10:00
 draft: false
 weight: 1
-summary: Get an overview of the OCP Java 17 exam, including topics, prerequisites, and study tips.
+summary: The OCP Java 17 exam (1Z0-829) is all about testing your Java SE 17 knowledge—50 questions, 90 minutes, and a passing score of 68%. It covers everything from functional programming to modules and concurrency. Prep time depends on experience. Beginners might need 6-9 months, while seasoned devs could get it done in 2-4. If you're serious about Java, this cert's worth a look. If you're gearing up for the OCP Java 17 exam, here's a friendly rundown to help you navigate the essentials.
 ---
 
-If you're gearing up for the OCP Java 17 exam, here's a friendly rundown to help you navigate the essentials.
 Actually, it's not more than my personal notes based on my readings. [BOOK](https://www.oreilly.com/library/view/ocp-oracle-certified/9781119864585/).
-If you want to know, I passed the OCA Java 8 exam in 2024. I'm a Java and Kotlin Developer with 4 years of experience.
+If you want to know, I passed the OCA Java 8 exam in 2024. I'm a Java and Kotlin Developer with 4 years of experience..
 
 ## Exam Overview
 
