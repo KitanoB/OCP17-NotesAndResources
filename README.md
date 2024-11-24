@@ -1,4 +1,4 @@
-# **OCP17-NotesAndResources** ![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&label=GO%20TO%20BLOG&link=https%3A%2F%2Fkitanob.github.io%2FOCP17-NotesAndResources%2Fdocs%2F)
+# **OCP17-NotesAndResources** ![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&label=BLOG-ENTRY&link=https://kitanob.github.io/OCP17-NotesAndResources/docs/)
 
 
 Welcome to my repository documenting my journey toward achieving the Oracle Certified Professional (OCP) Java 17 Certification.
@@ -12,7 +12,7 @@ Click on the image above or [here](https://kitanob.github.io/OCP17-NotesAndResou
 ## **Disclaimer**
 The information presented here is based on my personal understanding and research. While I strive for accuracy, these notes and resources are not official and should be used with caution. Please cross-reference with official Oracle documentation and trusted learning materials to ensure correctness.
 
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&label=GO%20TO%20BLOG&link=https%3A%2F%2Fkitanob.github.io%2FOCP17-NotesAndResources%2Fdocs%2F)
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&label=BLOG-ENTRY&link=https://kitanob.github.io/OCP17-NotesAndResources/docs/)
 
 
 
