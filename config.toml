@@ -22,7 +22,7 @@ summaryLength = 30
 
 
 [[menu.main]]
-    name = "Docs"
+    name = "HOME"
     url = "https://kitanob.github.io/OCP17-NotesAndResources/docs/"
     weight = 1
 
