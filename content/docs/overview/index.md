@@ -6,7 +6,6 @@ weight: 1
 summary: The OCP Java 17 exam (1Z0-829) is all about testing your Java SE 17 knowledge—50 questions, 90 minutes, and a passing score of 68%. It covers everything from functional programming to modules and concurrency. Prep time depends on experience. Beginners might need 6-9 months, while seasoned devs could get it done in 2-4. If you're serious about Java, this cert's worth a look. If you're gearing up for the OCP Java 17 exam, here's a friendly rundown to help you navigate the essentials [READ THE ARTICLE](https://kitanob.github.io/OCP17-NotesAndResources/docs/overview/)
 ---
 
-
 ## Exam Overview
 
 - **Exam Code**: 1Z0-829

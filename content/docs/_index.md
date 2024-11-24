@@ -5,3 +5,4 @@ weight: 1
 ---
 
 If you want to know, I passed the OCA Java 8 exam in 2024. I'm a Java and Kotlin Developer with 4 years of experience..
+
