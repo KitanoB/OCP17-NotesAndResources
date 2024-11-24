@@ -23,7 +23,7 @@ summaryLength = 30
 
 [[menu.main]]
     name = "Docs"
-    url = "/docs/"
+    url = "OCP17-NotesAndResources/docs/"
     weight = 1
 
 [params]
