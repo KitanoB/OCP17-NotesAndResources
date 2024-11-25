@@ -2,7 +2,7 @@
 title: 'Java Building Blocks Deep Dive'
 date: 2024-11-25T21:16:39+10:00
 draft: false
-weight: 1
+weight: 2
 summary: Traps, Key Concepts, and Evolution from Java 8 to Java 17 [READ THE ARTICLE](https://kitanob.github.io/OCP17-NotesAndResources/docs/chapter1/)
 ---
 
