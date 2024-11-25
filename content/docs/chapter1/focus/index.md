@@ -3,7 +3,7 @@ title: 'Difference Between Sealed Class and Final Class'
 date: 2024-11-25T21:16:39+10:00
 draft: false
 weight: 3
-summary: Why using final over sealed class [READ THE ARTICLE](https://kitanob.github.io/OCP17-NotesAndResources/docs/chapter1/sealedOrFinal)
+summary: Why using final over sealed class
 ---
 
 **Difference Between Sealed Class and Final Class:**
