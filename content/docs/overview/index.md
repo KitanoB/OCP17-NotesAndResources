@@ -1,5 +1,5 @@
 ---
-title: 'OCP In a Nutshell '
+title: 'OCP In a Nutshell'
 date: 2024-11-24T15:16:39+10:00
 draft: false
 weight: 1
