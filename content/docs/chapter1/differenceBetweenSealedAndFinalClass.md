@@ -1,5 +1,5 @@
 ---
-title: 'Difference Between Sealed Class and Final Class'
+title: '1.1 - Difference Between Sealed Class and Final Class'
 date: 2024-11-25T21:16:39+10:00
 draft: false
 weight: 3

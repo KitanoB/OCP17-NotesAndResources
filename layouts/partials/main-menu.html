@@ -6,7 +6,18 @@
       <a href="{{ .URL }}">
         <span>{{ .Name }}</span>
       </a>
+      {{ if .HasChildren }}
+      <ul class="sub-menu">
+        {{ range .Children }}
+        <li class="sub-menu-item-{{ .Name | lower }}">
+          <a href="{{ .URL }}">
+            <span>{{ .Name }}</span>
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+      {{ end }}
     </li>
-    {{end}}
+    {{ end }}
   </ul>
 </div>
