@@ -3,7 +3,7 @@ title: '4.0 - Variable Scope and Shadowing'
 date: 2024-11-25T21:16:39+10:00
 draft: false
 weight: 8
-summary: Understanding variable scope, shadowing, and common pitfalls in Java.
+summary: Understanding variable scope, shadowing, and common pitfalls in Java. In Java, the concept of variable scope determines where a variable is accessible within the code. Proper understanding of scope and the rules governing variable shadowing is essential to avoid common programming errors and to write clear, maintainable code. This article delves into the nuances of variable scope, shadowing, and highlights differences between Java 8 and Java 17 where applicable.
 ---
 
 ## **4.1 Introduction**

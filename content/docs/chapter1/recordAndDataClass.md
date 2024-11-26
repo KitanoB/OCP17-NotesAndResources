@@ -3,7 +3,7 @@ title: '2.0 - Records and Data Classes'
 date: 2024-11-25T21:16:39+10:00
 draft: false
 weight: 6
-summary: Exploring Java Records and their use cases. [READ THE ARTICLE](https://kitanob.github.io/OCP17-NotesAndResources/docs/chapter1/)
+summary: Java 16 introduced **records** as a concise way to create immutable data classes. Records simplify the task of creating classes that are primarily used to store data by automatically generating boilerplate code such as constructors, `equals()`, `hashCode()`, and `toString()` methods.
 ---
 
 ## **2.1 Introduction to Records**

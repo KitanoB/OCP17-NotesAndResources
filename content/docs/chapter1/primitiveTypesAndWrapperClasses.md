@@ -3,7 +3,7 @@ title: '3.0 - Primitive Types and Wrapper Classes'
 date: 2024-11-25T21:16:39+10:00
 draft: false
 weight: 7
-summary: Delving into primitives, autoboxing, and common pitfalls.
+summary: Delving into primitives, autoboxing, and common pitfalls. Java provides both **primitive types** and **wrapper classes** to represent basic data values. Understanding the nuances between them is crucial for writing efficient and error-free code. This article explores the key concepts, common pitfalls, and differences between Java 8 and Java 17 related to primitive types and their corresponding wrapper classes.
 ---
 
 ## **3.1 Introduction**
