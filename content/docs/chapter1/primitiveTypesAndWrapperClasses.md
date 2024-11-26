@@ -3,7 +3,7 @@ title: '3.0 - Primitive Types and Wrapper Classes'
 date: 2024-11-25T21:16:39+10:00
 draft: false
 weight: 7
-summary: Delving into primitives, autoboxing, and common pitfalls. [READ THE ARTICLE](https://kitanob.github.io/OCP17-NotesAndResources/docs/chapter1/)
+summary: Delving into primitives, autoboxing, and common pitfalls.
 ---
 
 ## **3.1 Introduction**

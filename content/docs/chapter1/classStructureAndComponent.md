@@ -3,7 +3,7 @@ title: '1.0 - Class Structure and Components'
 date: 2024-11-25T21:16:39+10:00
 draft: false
 weight: 2
-summary: Understanding Java class declarations, modifiers, and common traps [READ THE ARTICLE](https://kitanob.github.io/OCP17-NotesAndResources/docs/chapter1/)
+summary: Understanding Java class declarations, modifiers, and common traps
 ---
 
 ## **1.1 Class Declarations and Modifiers**

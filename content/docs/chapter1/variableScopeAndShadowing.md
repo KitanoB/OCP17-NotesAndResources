@@ -3,7 +3,7 @@ title: '4.0 - Variable Scope and Shadowing'
 date: 2024-11-25T21:16:39+10:00
 draft: false
 weight: 8
-summary: Understanding variable scope, shadowing, and common pitfalls in Java. [READ THE ARTICLE](https://kitanob.github.io/OCP17-NotesAndResources/docs/chapter1/)
+summary: Understanding variable scope, shadowing, and common pitfalls in Java.
 ---
 
 ## **4.1 Introduction**
