@@ -31,7 +31,7 @@ summaryLength = 30
   homepage_button_link = 'https://kitanob.github.io/OCP17-NotesAndResources/docs/'
   homepage_button_text = 'Read The Docs'
   homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
-  homepage_image = 'https://kitanob.github.io/OCP17-NotesAndResources/images/logo_takeshi.png'
+  homepage_image = 'https://kitanob.github.io/OCP17-NotesAndResources/images/terminal.gif'
 
   ## You can enable to add anchor links to header elements
   # enable_anchor_link = true
@@ -49,7 +49,7 @@ summaryLength = 30
 
   [params.logo]
       mobile = "https://kitanob.github.io/OCP17-NotesAndResources/images/logo_takeshi.png"
-      standard  = "https://kitanob.github.io/OCP17-NotesAndResources/images/logo_takehi.png"
+      standard  = "https://kitanob.github.io/OCP17-NotesAndResources/images/logo_takeshi.png"
 
   [params.footer]
     copyright_text = 'Free Hugo theme by <a class="zerostatic" href="https://www.zerostatic.io">Zerostatic Themes</a>'
