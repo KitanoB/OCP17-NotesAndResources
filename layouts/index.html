@@ -16,14 +16,20 @@
 {{ end }}
 
 {{ define "main" }}
+{{ $baseUrl := .Site.BaseURL }}
+
+{{ if eq hugo.Environment "development" }}
+  {{ $baseUrl := .Site.Params.localURL }}
+{{ end }}
+
 <!DOCTYPE html>
 <html>
 <head>
-  <meta http-equiv="refresh" content="0; url=https://kitanob.github.io/OCP17-NotesAndResources/docs/" />
-  <link rel="canonical" href="https://kitanob.github.io/OCP17-NotesAndResources/docs/" />
+  <meta http-equiv="refresh" content="0; url={{ $baseUrl }}/docs/" />
+  <link rel="canonical" href="{{ $baseUrl }}/docs/" />
 </head>
 <body>
-  <p>If you are not redirected, <a href="https://kitanob.github.io/OCP17-NotesAndResources/docs/">click here</a>.</p>
+  <p>If you are not redirected, <a href="{{ $baseUrl }}/docs/">click here</a>.</p>
 </body>
 </html>
 

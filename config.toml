@@ -27,6 +27,7 @@ summaryLength = 30
     weight = 1
 
 [params]
+  localURL = "http://localhost:1313/OCP17-NotesAndResources/"
   google_analytics_id=""
   homepage_button_link = 'https://kitanob.github.io/OCP17-NotesAndResources/docs/'
   homepage_button_text = 'Read The Docs'
