@@ -18,5 +18,20 @@ The information presented here is based on my personal understanding and researc
 
 [![Go Learning](https://img.shields.io/badge/Go%20Learning-BLOG-blue?style=for-the-badge)](https://kitanob.github.io/OCP17-NotesAndResources/docs/)
 
+## **How to build & start project locally**
+
+There is required few steps before starting launching and editing real-time pages on this project.
+
+Because this Hugo site uses theme template to work with a given submodule, you need to retrieve it alongside the project :
+``git clone --recurse-submodules``
+
+You may also install Hugo to build and run the project locally. Have a look [here](https://gohugo.io/installation/).
+
+As described on Hugo's website, to launch locally the website, use this command : ``hugo server -D``
+
+Have fun !
+
+
+
 
 
